@@ -39,7 +39,7 @@ To run this project, you need the following:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/wasif-exe/Eye-Tracking-Mouse-Control.py.git
+   git clone https://github.com/wasif-exe/Eye-Tracking-Mouse-Control.git
    cd eye-tracking-mouse
    ```
 
