@@ -3,7 +3,7 @@
 ## Demo
 
 <p align="center">
-  <img src="assets/demo.gif" alt="Eye Tracking Mouse Control Demo" width="600"/>
+  <img src="assets/eyegazetracking.gif" alt="Eye Tracking Mouse Control Demo" width="600"/>
 </p>
 
 
