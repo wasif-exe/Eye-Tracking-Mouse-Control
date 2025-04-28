@@ -2,7 +2,10 @@
 
 ## Demo
 
-![Eye Tracking Mouse Control Demo](assets/eyegazetracking.gif)
+<p align="center">
+  <img src="assets/demo.gif" alt="Eye Tracking Mouse Control Demo" width="600"/>
+</p>
+
 
 ---
 
