@@ -1,5 +1,11 @@
 # Eye Tracking Mouse Control
 
+## Demo
+
+![Eye Tracking Mouse Control Demo](assets/eyegazetracking.gif)
+
+---
+
 This project uses computer vision and gaze tracking to control the mouse pointer using eye movements. By leveraging facial landmarks detected via **MediaPipe**, the system maps the user's gaze direction to screen coordinates for intuitive mouse control.
 
 ## Features
